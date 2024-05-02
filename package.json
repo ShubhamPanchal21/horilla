@@ -27,6 +27,6 @@
     "jquery-ui-touch-punch": "^0.2.3",
     "js-datepicker": "^5.18.2",
     "select2": "^4.1.0-rc.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   }
 }
